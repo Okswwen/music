@@ -1,0 +1,14 @@
+<template>
+  <div class="">
+    <p>歌手页面</p>
+  </div>
+</template>
+
+<script type="text/ecmascript-6">
+export default {}
+
+</script>
+
+<style scoped lang="stylus" rel="stylesheet/stylus">
+
+</style>
